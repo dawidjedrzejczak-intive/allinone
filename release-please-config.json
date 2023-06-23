@@ -1,6 +1,7 @@
 {
   "packages": {
     ".": {
+      "package-name": "allinone",
       "changelog-path": "CHANGELOG.md",
       "release-type": "simple",
       "bump-minor-pre-major": false,
