@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.5.0](https://github.com/dawidjedrzejczak-intive/allinone/compare/v1.4.0...v1.5.0) (2023-06-23)
+
+
+### Features
+
+* **function1:** XXX-111 sample ([e99b75d](https://github.com/dawidjedrzejczak-intive/allinone/commit/e99b75dcce4362e3d82989069b544f156c20c730))
+* **function1:** XXX-444 sample2 ([5f47baf](https://github.com/dawidjedrzejczak-intive/allinone/commit/5f47baf5cd8f2ffc948fd36bfe5ccb222212822b))
+* **function2:** XXX-111 asd ([f4426a8](https://github.com/dawidjedrzejczak-intive/allinone/commit/f4426a8908d16d3638896479a5fc1d9ae6b3a099))
+
 ## [1.4.0](https://github.com/dawidjedrzejczak-intive/allinone/compare/v1.3.0...v1.4.0) (2023-06-23)
 
 
