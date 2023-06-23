@@ -7,19 +7,5 @@
     "function1": {
       "package-name": "function1"
     }
-  },
-  "plugins": [
-    {
-      "type": "cargo-workspace",
-      "merge": false
-    },
-    {
-      "type": "linked-versions",
-      "group-name": "allinone",
-      "components": [
-        "allinone",
-        "function1"
-      ]
-    }
-  ]
+  }
 }
