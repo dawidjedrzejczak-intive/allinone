@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/dawidjedrzejczak-intive/allinone/compare/v1.3.0...v1.4.0) (2023-06-23)
+
+
+### Features
+
+* **function3:** XXX-900 asdasdadasd ([a319c3d](https://github.com/dawidjedrzejczak-intive/allinone/commit/a319c3de7efa4a99591f02b4bd2976098c53e68e))
+
 ## [1.3.0](https://github.com/dawidjedrzejczak-intive/allinone/compare/v1.2.0...v1.3.0) (2023-06-23)
 
 
