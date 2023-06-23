@@ -4,7 +4,8 @@
     ".": {
     },
     "function1": {
-      "package-name": "function1"
+      "package-name": "function1",
+      "skip-github-release": true
     }
   }
 }
