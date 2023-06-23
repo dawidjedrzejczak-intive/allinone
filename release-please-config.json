@@ -1,0 +1,33 @@
+{
+    "release-type": "simple",
+    "packages": {
+      ".": {
+        "package-name": "allinone"
+      },
+      "function1": {
+        "package-name": "function1"
+      },
+      "function2": {
+        "package-name": "function2"
+      },
+      "function3": {
+        "package-name": "function3"
+      }
+    },
+    "plugins": [
+      {
+        "type": "cargo-workspace",
+        "merge": false
+      },
+      {
+        "type": "linked-versions",
+        "group-name": "plecomm",
+        "components": [
+          "allinone",
+          "function1",
+          "function2",
+          "function3"
+        ]
+      }
+    ]
+  }
