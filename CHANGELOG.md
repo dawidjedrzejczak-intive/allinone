@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/dawidjedrzejczak-intive/allinone/compare/v1.0.0...v1.1.0) (2023-06-23)
+
+
+### Features
+
+* **function3:** XXX-888 asdasdasd ([4a9a0e0](https://github.com/dawidjedrzejczak-intive/allinone/commit/4a9a0e0b38a6ec230699f00fa7ed64f6b799304f))
+
 ## 1.0.0 (2023-06-23)
 
 
