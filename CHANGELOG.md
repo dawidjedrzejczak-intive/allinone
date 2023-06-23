@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.0](https://github.com/dawidjedrzejczak-intive/allinone/compare/v1.5.0...v1.6.0) (2023-06-23)
+
+
+### Features
+
+* **function1:** XXX-777 sample7 ([8b9fd7c](https://github.com/dawidjedrzejczak-intive/allinone/commit/8b9fd7c03a86d28fab3d5f3fa9be295c9211cefd))
+
 ## [1.5.0](https://github.com/dawidjedrzejczak-intive/allinone/compare/v1.4.0...v1.5.0) (2023-06-23)
 
 
