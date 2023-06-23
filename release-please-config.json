@@ -8,5 +8,18 @@
       "package-name": "function1"
     }
   },
-  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
+  "plugins": [
+    {
+      "type": "cargo-workspace",
+      "merge": false
+    },
+    {
+      "type": "linked-versions",
+      "group-name": "allinone",
+      "components": [
+        "allinone",
+        "function1"
+      ]
+    }
+  ]
 }
