@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/dawidjedrzejczak-intive/allinone/compare/function1-v1.3.0...function1-v1.4.0) (2023-06-23)
+
+
+### Features
+
+* **function1:** zzzzzz ([d9936c2](https://github.com/dawidjedrzejczak-intive/allinone/commit/d9936c29a4b2e13230be264cf7e9e8bdd8f65cd0))
+
 ## [1.3.0](https://github.com/dawidjedrzejczak-intive/allinone/compare/function1-v1.2.0...function1-v1.3.0) (2023-06-23)
 
 
