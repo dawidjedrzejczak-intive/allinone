@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/dawidjedrzejczak-intive/allinone/compare/v1.2.0...v1.3.0) (2023-06-23)
+
+
+### Features
+
+* **function3:** XXX-111 olololo ([666a1b7](https://github.com/dawidjedrzejczak-intive/allinone/commit/666a1b7c2e342acbc50710489fc358663e835502))
+
 ## [1.2.0](https://github.com/dawidjedrzejczak-intive/allinone/compare/v1.1.0...v1.2.0) (2023-06-23)
 
 
