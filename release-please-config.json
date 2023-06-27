@@ -8,4 +8,18 @@
       "skip-github-release": true
     }
   }
+  "plugins": [
+    {
+      "type": "cargo-workspace",
+      "merge": false
+    },
+    {
+      "type": "linked-versions",
+      "group-name": "plecomm",
+      "components": [
+        ".",
+        "function1"
+      ]
+    }
+  ]
 }
