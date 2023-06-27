@@ -2,6 +2,7 @@
   "release-type": "simple",
   "packages": {
     ".": {
+      "package-name": "allinone"
     },
     "function1": {
       "package-name": "function1",
@@ -25,7 +26,7 @@
       "type": "linked-versions",
       "group-name": "test",
       "components": [
-        "",
+        "allinone",
         "function1",
         "function2",
         "function3"
