@@ -25,7 +25,7 @@
       "type": "linked-versions",
       "group-name": "test",
       "components": [
-        ".",
+        "",
         "function1",
         "function2",
         "function3"
