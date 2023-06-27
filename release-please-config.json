@@ -6,6 +6,14 @@
     "function1": {
       "package-name": "function1",
       "skip-github-release": true
+    },
+    "function2": {
+      "package-name": "function2",
+      "skip-github-release": true
+    },
+    "function3": {
+      "package-name": "function3",
+      "skip-github-release": true
     }
   }
 }
