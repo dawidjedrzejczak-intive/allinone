@@ -8,10 +8,4 @@
       "skip-github-release": true
     }
   }
-  "plugins": [
-    {
-      "type": "cargo-workspace",
-      "merge": false
-    }
-  ]
 }
